@@ -1,0 +1,14 @@
+#app-container {
+  margin: 0;
+  padding: 30px;
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+  // background-color: yellow;
+
+  #showcase-container {
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+  }
+}
